@@ -22,6 +22,8 @@ variable "tags" {
      default = {
         accet_id = "b"
         owner = "d"
+        env = "dev"
+       demo = "prod"
      }
   
 }
